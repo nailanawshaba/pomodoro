@@ -2,7 +2,7 @@
 
 for i in `seq 25 -1 1`; do
         echo -n $i' '
-#	sleep 1m
+	sleep 1m
 done
 
 MY_PATH=`dirname $0`
